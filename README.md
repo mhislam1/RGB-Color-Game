@@ -9,4 +9,5 @@ What I learned:
 - How to use HTML to manipulate the structure in order to make styling and adding functionailty across multiple elements easier.
 - Using CSS to style fonts, adding transitions, highlighting features when hovered over.
 - Navigating through CSS's specifcity structure. 
+- Making buttons and other components responsive. 
 - Gained an understanding and  understanding of events and listeners in Javascript as well multiple ways to refactor code to increase readibility. 
